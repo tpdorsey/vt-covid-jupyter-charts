@@ -2,6 +2,8 @@
 
 These Jupyter notebooks provide some alternatives to the official state-provided reporting, but are based on official state data.
 
+**Note:** Vermont stopped updating Covid-19 case reporting on 09/21/2022. This project remains online for historical interest.
+
 * VT-Covid-19-ByCounty.ipynb - county-by-county test and hospitalization data
 * VT-Covid-19-Data-Pandas.ipynb - full-state data including tests, hospitalizations, and deaths
 
